@@ -1,0 +1,378 @@
+@media only screen and (max-width:1024px){
+    .row-ads{
+        width: 90%;;
+    }
+
+    .row-nav-center {
+        margin-left: -204px;
+        margin-top: -3px;
+        width: 62.731182%;
+    }
+    
+    .container-nav {
+        width: 90%;
+    }
+    
+
+    .shopping {
+        position: relative;
+        width: 30px;
+    }
+    
+    .ads-title-01 {
+        top: 167px;
+        right: 35px;
+    }
+    .title-ads1 {
+        font-size: 21px;
+    }
+
+    .title-ads3 {
+        font-size: 14px;
+    }
+
+    .title-ads2 {
+        font-size: 12px;
+    }
+
+    .ads-title-02 {
+        top: 44px;
+        left: 32px;
+    }
+
+    .ads-title-03 {
+        top: 46px;
+        left:14px;
+    }
+
+    .item-ads {
+        font-size: 9px;
+        margin-top: 3px;
+    }
+
+    .button2 {
+        width: 65%;
+        height: 25px;
+        margin-top: 16px;
+        margin-left: 5px;
+    }
+
+    .button1 {
+        width: 26%;
+        height: 25px;
+        margin-top: 16px;
+        margin-left: 5px;
+    }
+    .ads-title-01 {
+        top: 56%;
+        right: 8%;
+    }
+
+    .ads-title-03 {
+        top: 31%;
+        left: 15%;
+    }
+
+    .ads-title-02 {
+        top: 41%;
+        left: 15%;
+    }
+
+    .menu-0{
+        margin-left: 15px;
+    }
+    
+}
+
+@media only screen and (width:768px){
+    .row-nav-center {
+        display: none;
+    }
+
+    .btn-menu {
+        display: block;
+        margin-left: 45px;
+    }
+
+    #heart-icon {
+        font-size: 27px;
+        color: black;
+    }
+
+    .cart {
+        width: 82px;
+    }
+
+    .row-nav-left{
+        margin-left: 30px;
+    }
+
+    .row-nav-right {
+        margin-right: 44px;
+    }
+}
+
+@media only screen and (max-width:1440px)and (min-width:768px){
+    .row-ads{
+        width: 80%;;
+    }
+    .content{
+        width: 80%;
+    }
+
+    .container-blog{
+        width: 80%;
+    }
+
+    .footer-top-row {
+        width: 80%;
+    }
+    
+    .footer-bottom-container {
+        width: 80%;
+    }
+    .footer-top-row-content-nav {
+        width: 117%;
+    }
+    .footer-top-row-content
+    {
+        width: 148%;
+    }
+    .footer-top-row-content-text-nav-01 {
+       
+        width: 112px;
+    }
+}
+
+@media only screen and (min-width:1440px)and (max-width:1860px){
+    .row-ads{
+        width: 70%;;
+    }
+    .content{
+        width:70%;
+    }
+
+    .container-blog{
+        width:70%;
+    }
+
+    .footer-top-row {
+        width:70%;
+    }
+    
+    .footer-bottom-container {
+        width:70%;
+    }
+}
+
+
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width : 320px) and (max-width : 767px) {
+    .footer-top-row {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        margin: 0 auto;
+        margin-top: 60px;
+        height: 600px;
+        margin-top: 35px;
+        width: 90%;
+    }
+
+    .footer-top-row-content-nav {
+        margin-left: -5px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 56px;
+        width: 50%;
+    }
+    .footer-top-row-content-text-nav-01 {
+        font-size: 14px;
+        font-family: 'Open Sans', sans-serif;
+        line-height: 1.5;
+        color: rgb(136, 136, 136);
+        width: 185px;
+        height: 170px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top: -5px;
+        margin-left: 4px;
+    }
+
+    .footer-top-row-content-text-nav-02 {
+        font-size: 14px;
+        color: #888888;
+        /* line-height: 22px; */
+        letter-spacing: 0.26px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        line-height: 23px;
+        height: 172px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .footer {
+        height: 950px;
+        background-color: #222222;
+    }
+    .row-ads {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .ads-02{
+        width: 100%;
+    }
+
+    .ads-01{
+        width: 100%;
+    }
+
+    .title-ads1 {
+        font-size: 15px;
+    }
+
+    .button1 {
+        width: 37%;
+        height: 25px;
+        margin-top: 16px;
+        margin-left: 5px;
+    }
+
+    .content {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .btn-add {
+        top: 271px;
+    }
+
+    .container-blog {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .blog-row-01 {
+        width: 100%;
+        background-color: white;
+        margin-top: 20px;
+    }
+
+    .blog {
+        background-image: url(../img/load.png);
+        height: 1461px;
+        margin-top: 30px;
+    }
+
+    .footer-top-row-01 {
+        border-bottom: 1px solid #393939;
+        height: 45px;
+        width: 100%;
+    }
+
+    .footer-top-row-content-nav {
+    margin-left: -5px;
+    display: flex;
+    justify-content: space-between;
+ 
+    margin-top: 56px;
+    width: 293px;
+    }   
+    .footer-top-row-02 {
+        border-bottom: 1px solid #393939;
+        height: 45px;
+        width: 100%;
+    }
+
+    .footer-bottom-container {
+        width: 100%;
+        margin: 0 auto;
+        height: 67px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-top {
+        height: 815px;
+        border-bottom: 1px solid#393939;
+    }
+
+    .footer-bottom-left-text {
+        color: rgb(136, 136, 136);
+        font-size: 13px;
+        font-family: 'Open Sans', sans-serif;
+        letter-spacing: 0.02em;
+    }
+
+    .footer-bottom-left{
+        margin-top: 14px;
+    }
+
+    .container{
+        font-size: 9px;
+    }
+
+    .row-nav-center {
+        display: none;
+    }
+
+    .top{
+        display: none;
+    }
+
+    .row-nav {
+        display: flex;
+        justify-content: center;
+    }
+
+    .franco {
+        font-size: 11px;
+        margin-left: 15px;
+    }
+
+    .logo {
+        width: 118px;
+        height: 36px;
+    }
+
+    .shopping-cart{
+        display: none;
+    }
+
+    .btn-menu {
+        display: block;
+        margin-left: -2px;
+    }
+
+    #heart-icon{
+        font-size: 18px;
+        color: black;
+    }
+
+    .cart {
+        width: 51px;
+    }
+
+    .row-nav-left{
+        margin-left: 51px;
+    }
+
+    .row-nav-right {
+        margin-left: 30px;
+    }
+
+    .shopping {
+        width: 18px;
+    }
+}
+    
